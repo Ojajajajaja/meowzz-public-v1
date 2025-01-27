@@ -1,6 +1,6 @@
 # MEOWZZ Project - First Cat on BUZZ - ElizaStarter Fork
 
-<div align="left" style="width: 100%">
+<div align="left" style="width: 200%">
   <img src="banner.png" alt="MEOWZZ" width="50%">
 </div>
 
